@@ -111,4 +111,4 @@ Se generaron objetos tipo cadena de responsabilidad que accedian a los prototipo
 
 ### Diagrama de Clases
 
-![diag2](https://github.com/Sebastian-MG/Demo-Personajes-v2/blob/master/uml2-1.png)
+![diag2](https://github.com/Sebastian-MG/Demo-Personajes-v3/blob/master/UML-3.jpg)
