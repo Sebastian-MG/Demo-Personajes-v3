@@ -36,7 +36,7 @@ random => ClasesJuego, Launcher, Game, Decorator, Composite, Pantalla
 
 Version 1:  Disponible aquí: https://github.com/Sebastian-MG/Demo-Personajes
 
-Version 3:  Disponible aqui: https://github.com/Sebastian-MG/Demo-Personajes-v3
+Version 3:  Disponible aqui: https://github.com/Sebastian-MG/Demo-Personajes-V4
 
 
 ### Patrones De Diseño
