@@ -42,6 +42,7 @@ Version 3:  Disponible aqui: https://github.com/Sebastian-MG/Demo-Personajes-v3
 ### Patrones De Diseño
 
 ##### Modulo Builder : 
+Para la version 2 se amplio la clase Builder_Sprites para que construyera 4 objetos en diferentes direcciones, cada una agregada a un diccionario que era atributo propio privado de la clase Builder_Sprites, por su parte el modulo Builder_Sonidos no se expandió.
 
 Entre la v2 y v3 el modulo solo fue modificado en un metodo en la clase Builder_Sprites.
 
